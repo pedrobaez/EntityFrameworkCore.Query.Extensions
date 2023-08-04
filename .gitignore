@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/EntityFrameworkCore.Query.Extensions/DesignTimeBuild
+/.vs/EntityFrameworkCore.Query.Extensions/FileContentIndex
+/.vs/EntityFrameworkCore.Query.Extensions/v17
+/bin/Debug/net6.0
+/obj
